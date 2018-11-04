@@ -1,7 +1,5 @@
-tsesdfsdf 123
+test1
 test2
-<<<<<<< Updated upstream
-test33
-=======
-test 3
->>>>>>> Stashed changes
+test3
+test4
+
